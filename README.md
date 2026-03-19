@@ -8,16 +8,7 @@ A car-dashboard style statusline for [Claude Code](https://docs.anthropic.com/en
 
 ## What it looks like
 
-```
-rate     [195k/h ▶▶▶▶···········][$1.82/h $$··················]
-think    [●●●●●●●●●●●●●●●●●●··································]
-context  [   ◇805k                 ][  ◆148k  ][ ▼30k ][ ▲16k ]
-5h ·●┃·· [          72%          ┃                            ]
-7d ··┃●· [    38%    ┃                                        ]
-tokens   [  ses 214k  ][     day 580k     ][     all 1.2m     ]
-cost     [ ses $2 ][    day $6    ][         all $48          ]
-✦ Claude Opus 4.6 │ ◉ my-project │ ⎇ main ✓
-```
+![claude-statusline](screenshot.png)
 
 ## Features
 
