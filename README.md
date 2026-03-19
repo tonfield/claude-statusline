@@ -10,8 +10,8 @@ A car-dashboard style statusline for [Claude Code](https://docs.anthropic.com/en
 
 ```
 rate     [195k/h ▶▶▶▶···········][$1.82/h $$··················]
-think    [●●●●●●●●●●●●●●●●●●··························]
-context  [   ◇805k    ][  ◆148k  ][ ▼30k ][ ▲16k ]
+think    [●●●●●●●●●●●●●●●●●●··································]
+context  [   ◇805k                 ][  ◆148k  ][ ▼30k ][ ▲16k ]
 5h ·●┃·· [          72%          ┃                            ]
 7d ··┃●· [    38%    ┃                                        ]
 tokens   [  ses 214k  ][     day 580k     ][     all 1.2m     ]
